@@ -1,0 +1,249 @@
+countries,iso3166-1-alpha-2,iso3166-1-alpha-3
+taiwan,tw,twn
+afghanistan,af,afg
+albania,al,alb
+algeria,dz,dza
+american samoa,as,asm
+andorra,ad,and
+angola,ao,ago
+anguilla,ai,aia
+antarctica,aq,ata
+antigua and barbuda,ag,atg
+argentina,ar,arg
+armenia,am,arm
+aruba,aw,abw
+australia,au,aus
+austria,at,aut
+azerbaijan,az,aze
+bahamas,bs,bhs
+bahrain,bh,bhr
+bangladesh,bd,bgd
+barbados,bb,brb
+belarus,by,blr
+belgium,be,bel
+belize,bz,blz
+benin,bj,ben
+bermuda,bm,bmu
+bhutan,bt,btn
+bolivia,bo,bol
+"bonaire, sint eustatius and saba",bq,bes
+bosnia and herzegovina,ba,bih
+botswana,bw,bwa
+bouvet island,bv,bvt
+brazil,br,bra
+british indian ocean territory,io,iot
+british virgin islands,vg,vgb
+brunei darussalam,bn,brn
+bulgaria,bg,bgr
+burkina faso,bf,bfa
+burundi,bi,bdi
+cabo verde,cv,cpv
+cambodia,kh,khm
+cameroon,cm,cmr
+canada,ca,can
+cayman islands,ky,cym
+central african republic,cf,caf
+chad,td,tcd
+chile,cl,chl
+china,cn,chn
+hong kong,hk,hkg
+macao,mo,mac
+christmas island,cx,cxr
+cocos (keeling) islands,cc,cck
+colombia,co,col
+comoros,km,com
+congo,cg,cog
+cook islands,ck,cok
+costa rica,cr,cri
+croatia,hr,hrv
+cuba,cu,cub
+curaçao,cw,cuw
+cyprus,cy,cyp
+czechia,cz,cze
+côte d'ivoire,ci,civ
+north korea,kp,prk
+congo,cd,cod
+denmark,dk,dnk
+djibouti,dj,dji
+dominica,dm,dma
+dominican republic,do,dom
+ecuador,ec,ecu
+egypt,eg,egy
+el salvador,sv,slv
+equatorial guinea,gq,gnq
+eritrea,er,eri
+estonia,ee,est
+ethiopia,et,eth
+falkland islands,fk,flk
+faroe islands,fo,fro
+fiji,fj,fji
+finland,fi,fin
+france,fr,fra
+french guiana,gf,guf
+french polynesia,pf,pyf
+french southern territories,tf,atf
+gabon,ga,gab
+gambia,gm,gmb
+georgia,ge,geo
+germany,de,deu
+ghana,gh,gha
+gibraltar,gi,gib
+greece,gr,grc
+greenland,gl,grl
+grenada,gd,grd
+guadeloupe,gp,glp
+guam,gu,gum
+guatemala,gt,gtm
+guernsey,gg,ggy
+guinea,gn,gin
+guinea-bissau,gw,gnb
+guyana,gy,guy
+haiti,ht,hti
+heard island and mcdonald islands,hm,hmd
+holy see,va,vat
+honduras,hn,hnd
+hungary,hu,hun
+iceland,is,isl
+india,in,ind
+indonesia,id,idn
+iran,ir,irn
+iraq,iq,irq
+ireland,ie,irl
+isle of man,im,imn
+israel,il,isr
+italy,it,ita
+jamaica,jm,jam
+japan,jp,jpn
+jersey,je,jey
+jordan,jo,jor
+kazakhstan,kz,kaz
+kenya,ke,ken
+kiribati,ki,kir
+kuwait,kw,kwt
+kyrgyzstan,kg,kgz
+lao,la,lao
+latvia,lv,lva
+lebanon,lb,lbn
+lesotho,ls,lso
+liberia,lr,lbr
+libya,ly,lby
+liechtenstein,li,lie
+lithuania,lt,ltu
+luxembourg,lu,lux
+madagascar,mg,mdg
+malawi,mw,mwi
+malaysia,my,mys
+maldives,mv,mdv
+mali,ml,mli
+malta,mt,mlt
+marshall islands,mh,mhl
+martinique,mq,mtq
+mauritania,mr,mrt
+mauritius,mu,mus
+mayotte,yt,myt
+mexico,mx,mex
+micronesia,fm,fsm
+monaco,mc,mco
+mongolia,mn,mng
+montenegro,me,mne
+montserrat,ms,msr
+morocco,ma,mar
+mozambique,mz,moz
+myanmar,mm,mmr
+namibia,na,nam
+nauru,nr,nru
+nepal,np,npl
+netherlands,nl,nld
+new caledonia,nc,ncl
+new zealand,nz,nzl
+nicaragua,ni,nic
+niger,ne,ner
+nigeria,ng,nga
+niue,nu,niu
+norfolk island,nf,nfk
+northern mariana islands,mp,mnp
+norway,no,nor
+oman,om,omn
+pakistan,pk,pak
+palau,pw,plw
+panama,pa,pan
+papua new guinea,pg,png
+paraguay,py,pry
+peru,pe,per
+philippines,ph,phl
+pitcairn,pn,pcn
+poland,pl,pol
+portugal,pt,prt
+puerto rico,pr,pri
+qatar,qa,qat
+south korea,kr,kor
+moldova,md,mda
+romania,ro,rou
+russia,ru,rus
+rwanda,rw,rwa
+réunion,re,reu
+saint barthélemy,bl,blm
+saint helena,sh,shn
+saint kitts and nevis,kn,kna
+saint lucia,lc,lca
+saint martin,mf,maf
+saint pierre and miquelon,pm,spm
+saint vincent and the grenadines,vc,vct
+samoa,ws,wsm
+san marino,sm,smr
+sao tome and principe,st,stp
+sark,,
+saudi arabia,sa,sau
+senegal,sn,sen
+serbia,rs,srb
+seychelles,sc,syc
+sierra leone,sl,sle
+singapore,sg,sgp
+sint maarten,sx,sxm
+slovakia,sk,svk
+slovenia,si,svn
+solomon islands,sb,slb
+somalia,so,som
+south africa,za,zaf
+south georgia,gs,sgs
+south sudan,ss,ssd
+spain,es,esp
+sri lanka,lk,lka
+palestine,ps,pse
+sudan,sd,sdn
+suriname,sr,sur
+svalbard,sj,sjm
+swaziland,sz,swz
+sweden,se,swe
+switzerland,ch,che
+syria,sy,syr
+tajikistan,tj,tjk
+thailand,th,tha
+the former yugoslav republic of macedonia,mk,mkd
+timor-leste,tl,tls
+togo,tg,tgo
+tokelau,tk,tkl
+tonga,to,ton
+trinidad and tobago,tt,tto
+tunisia,tn,tun
+turkey,tr,tur
+turkmenistan,tm,tkm
+turks and caicos islands,tc,tca
+tuvalu,tv,tuv
+uganda,ug,uga
+ukraine,ua,ukr
+united arab emirates,ae,are
+united kingdom,gb,gbr
+tanzania,tz,tza
+united states,us,usa
+uruguay,uy,ury
+uzbekistan,uz,uzb
+vanuatu,vu,vut
+venezuela,ve,ven
+viet nam,vn,vnm
+wallis and futuna islands,wf,wlf
+western sahara,eh,esh
+yemen,ye,yem
+zambia,zm,zmb
+zimbabwe,zw,zwe
+åland islands,ax,ala

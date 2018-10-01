@@ -1,0 +1,96 @@
+Question 1: Assume you are a courier company. How do you help your customers create delivery orders
+  efficiently? Assume there are 3 types of customers. Customers that create 1 delivery every week,
+  10 deliveries a day, and 1000 deliveries a day. Describe how you would solve this problem. 
+  No code needed.
+
+
+The question does not provide enough information to give a detailed specification of the code
+  and I do not know enough about how a courier company works to fill in the details.  
+  As a result, I will describe the process I would use to design the code.
+
+1) Business goals
+	What are the business goals for the new (improved) delivery order system (DOS)?
+
+	Some possible answers are:
+		Increase revenues
+		Increase profits
+		Catch up with the market
+
+	The answer to this question will affect the design of the DOS.
+
+2) Constraint
+	Is the DOS the first or second biggest constraint in achieving the business goal?  For instance,
+	  if the business goal is to increase revenues and the limiting factor is hiring enough delivery 
+	  people, then creating a new DOS is unlikely to help achieve the business goal.  If this is 
+	  the case, it is debatable whether the project should even be undertaken.  For more information
+	  see https://www.leanproduction.com/theory-of-constraints.html.
+
+3) Define customer needs
+	Assuming that the DOS is a big constraint in achieving the business goal, then we need to
+	  understand the customers’ needs in a DOS.  However, first we need to understand the present DOS
+	  and what are the customers’ pain points and also the internal order process pain points.
+	  
+	 These pain points may be known to the owner of the courier company.  If not they can be
+	  discovered with interviews or surveys of key customers and the internal staff.  It may also
+	  be worth reviewing solutions that other courier companies are using. 
+
+4) Define product specification
+	From this information a preliminary specification for the DOS can be formulated.  From the
+	  question, we assume that the needs of the three types of customers is different.  Also based 
+	  on the question, the main problem with the DOS system that we want to solve is the UI/UX.
+	  
+	A good first place to start is to create a wireframe or wireframes for the DOS.  These can then
+	  be used to get more feedback from customers.  Once the wireframes are stable this should 
+	  define the UX elements that are needed. 
+
+5) Assumptions
+	In order to provide a little more detail I am going to make some assumptions. 
+	a) The goal is to increase revenues and creating order deliveries is a constraint to this goal.
+	b) The company only transports documents and non-perishable goods
+	c) The customers all have access to smart phones or computers connected to the internet
+
+6) High level product design
+	The main components of the DOS would be:
+		*Delivery scheduling system
+			One time
+			Automated 
+		*Login system
+		*Billing system 
+			Credit card
+		*Pricing system 
+
+	A DOS at a minimum needs a pickup and dropoff location screen (deliver scheduling screen) 
+	  along with the time the delivery is needed.  Entering the location information needs to be
+	  intuitive, quick, and simple.  For frequent customers theses locations should be stored.  
+	  These locations can be part of a drop down menu or have an auto-complete function.  
+	  Another feature that may be helpful is a map so that the customer can tap a location rather 
+	  than type in the location.  
+	  
+	The location information is going to need a contact name and number.  It also is going to need 
+	  a scheduling module.  For instance, can the delivery happen anytime today or is there a set 
+	  time that the package needs to be picked or does the customer need the packaged delivered ASAP.
+	  The DOS should provide the cost of the delivery.  Once the customer agrees to the delivery 
+	  and price details (pricing system), the DOS should provide a confirmation screen. The confirmation screen might have a cancel button for a certain period of time after the order 
+	  has been placed. 
+	  
+	Large customers are likely to have repeated deliveries that need to happen everyday or once 
+	  a week.  For customers whose credit has been approved, there should be an option to setup
+	  these recurring deliveries once.  The recurring deliveries could be a pull down menu.  
+	  The menu would show the customer’s recurring deliveries.  The customer could click on one 
+	  of the orders to pull up a screen to modify the recurring order or cancel it.  Alternatively,
+	  they can setup a new recurring delivery.
+	  
+	A login system would be necessary for the DOS.  This system might use cookies, so the customer
+	  is not forced to reenter the login information every time.  However, the cookies should expire
+	  say every day, week or every month for security reasons.  The login system should easily 
+	  allow a new customer to setup an account. 
+	  
+	The DOS would need a billing system.  For small or infrequent customers, this could be a 
+	  standard credit card screen.  For large customers requesting credit, the screen would 
+	  require more information.  Not being an expert in credit systems, I am unsure what fields 
+	  would be necessary. 
+	  
+	The main differences I see between the three types of customers is in the billing system
+	  and the delivery scheduling system.  Large customers would use the credit application screen,
+	  while small customers would be required to pay with a credit card.  Large customers would 
+	  need to be able to schedule recurring orders. 
